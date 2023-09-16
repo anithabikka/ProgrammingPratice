@@ -1,4 +1,4 @@
-package java_pratice.array_examples;
+package java.pratice.array.examples;
 
 public class MultiDimensional {
     public static void main(String[] args) {

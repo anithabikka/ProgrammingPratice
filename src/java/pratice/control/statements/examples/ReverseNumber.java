@@ -1,4 +1,4 @@
-package java_pratice.array_examples.control_statements_examples;
+package java.pratice.control.statements.examples;
 
 import java.util.Scanner;
 
@@ -27,7 +27,7 @@ public class ReverseNumber
 
         }
 
-        System.out.println("java_pratice.array_examples.control_statements_examples.Reverse of " + number + " is " + reverse);
+        System.out.println("java_pratice.control_statements_examples.Reverse of " + number + " is " + reverse);
 
     }
 }

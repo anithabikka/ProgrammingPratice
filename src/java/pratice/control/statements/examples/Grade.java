@@ -1,4 +1,4 @@
-package java_pratice.array_examples.control_statements_examples;
+package java.pratice.control.statements.examples;
 
 public class Grade {
     public static void main(String[]args){

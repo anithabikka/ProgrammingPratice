@@ -1,4 +1,4 @@
-package stringexamples;
+package java.pratice.string.examples;
 
 public class Concat {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package stringexamples;
-
-import java.util.*;
+package java.pratice.string.examples;
 
 public class CharExample {
     public static void main(String[] args) {

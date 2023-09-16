@@ -1,4 +1,4 @@
-package java_pratice.array_examples.oops_pratice;
+package java.pratice.oops.pratice;
 
 abstract class Managemen {
     private final int salary;

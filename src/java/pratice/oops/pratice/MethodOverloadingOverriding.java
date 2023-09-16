@@ -1,4 +1,4 @@
-package java_pratice.array_examples.oops_pratice;
+package java.pratice.oops.pratice;
 
 public class MethodOverloadingOverriding {
 
@@ -16,7 +16,7 @@ public class MethodOverloadingOverriding {
     public static void main(String[] args) {
         MethodOverloadingOverriding obj=new MethodOverloadingOverriding();
         obj.method1(29,59);
-//        java_pratice.array_examples.oops_pratice.MethodOverloadingOverriding obj2=new java_pratice.array_examples.oops_pratice.MethodOverloadingOverriding();
+//        java_pratice.oops_pratice.MethodOverloadingOverriding obj2=new java_pratice.oops_pratice.MethodOverloadingOverriding();
         obj.method1(25,24,29);
 
 

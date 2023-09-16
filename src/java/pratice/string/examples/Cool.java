@@ -1,6 +1,6 @@
-package stringexamples;
+package java.pratice.string.examples;
 
-//public class stringexamples.Cool {
+//public class java_pratice.stringexamples.Cool {
 //    public static void main(String[] args) {
 ////        for(int i=9;i>0;i--){
 ////            System.out.println(i);

@@ -1,4 +1,4 @@
-package java_pratice.array_examples.control_statements_examples;
+package java.pratice.control.statements.examples;
 
 public class Factorial {
     public static void main(String[] args) {
@@ -6,8 +6,9 @@ public class Factorial {
         int number=4;
         for (i=1;i<=number;i++) {
             fact = fact * i;
-        }
 
+        }
+        // testing how to commit
         System.out.println(" factorial of"+number+"is"+fact);
     }
 }

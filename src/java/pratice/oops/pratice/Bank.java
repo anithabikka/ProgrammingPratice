@@ -1,14 +1,14 @@
-package java_pratice.array_examples.oops_pratice;
+package java.pratice.oops.pratice;
 
 class Account {
      private float interestrates;
      private int withdrawllimit;//
 
-//     java_pratice.array_examples.oops_pratice.Account(int withdrawllimit) {
+//     java_pratice.oops_pratice.Account(int withdrawllimit) {
 //         this.withdrawllimit = withdrawllimit;
 //     }
 
-//     class java_pratice.array_examples.oops_pratice.SavingsAccount extends java_pratice.array_examples.oops_pratice.Account{
+//     class java_pratice.oops_pratice.SavingsAccount extends java_pratice.oops_pratice.Account{
      float getInterestrates() {
 
 

@@ -1,4 +1,4 @@
-package java_pratice.array_examples.control_statements_examples;
+package java.pratice.control.statements.examples;
 
 public class Day {
     public static void main (String[] args){
@@ -13,9 +13,7 @@ public class Day {
             case 3:
                 System.out.println("wednesday");
                 break;
-            case 4:
-                System.out.println("thursday");
-                break;
+
             default:
                 System.out.println("invalid day ");
 

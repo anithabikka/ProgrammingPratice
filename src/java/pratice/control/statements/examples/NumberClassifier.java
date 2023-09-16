@@ -1,4 +1,4 @@
-package java_pratice.array_examples.control_statements_examples;
+package java.pratice.control.statements.examples;
 
 import java.util.Scanner;
     public class NumberClassifier {

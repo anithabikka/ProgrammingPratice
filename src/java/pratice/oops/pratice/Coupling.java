@@ -1,7 +1,7 @@
-package java_pratice.array_examples.oops_pratice;
+package java.pratice.oops.pratice;
 
 class Couplin {
-//    java_pratice.array_examples.oops_pratice.Couplin( int a,int b) {
+//    java_pratice.oops_pratice.Couplin( int a,int b) {
 //    }
     void scale(){
         System.out.println("my name is");

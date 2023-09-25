@@ -27,7 +27,7 @@ public class ReverseNumber
 
         }
 
-        System.out.println("java_pratice.control_statements_examples.Reverse of " + number + " is " + reverse);
+        System.out.println("Reverse of " + number + " is " + reverse);
 
     }
 }

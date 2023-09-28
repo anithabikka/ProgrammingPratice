@@ -3,7 +3,7 @@ package javapratice.exceptionhandling;
 import javax.swing.text.html.parser.Parser;
 import java.io.PrintWriter;
 
-public class FileNotFoundException {
+public class FileNotFoundException extends Throwable {
     public static void main(String[] args) {
       //  PrintWriter pw;
         try{

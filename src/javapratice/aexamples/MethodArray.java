@@ -13,5 +13,7 @@ public class MethodArray {
     public static void main(String args[]){
         int a[]={33,3,4,5};//declaring and initializing an array
         min(a);//passing array to method
+        int b[]={55,87,89,25};
+        min(b);
     }}
 

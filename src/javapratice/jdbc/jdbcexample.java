@@ -2,6 +2,7 @@ package javapratice.jdbc;
 
 
 import java.sql.*;
+import java.sql.ResultSet;
 
 public class jdbcexample {
     public static  void main(String[] args) {

@@ -1,6 +1,6 @@
-package javapratice.lamdaexpression;
+package javapratice.lambdaexpression;
 
-public class MultopleParameterInLamda {
+public class MultopleParameterInLambda {
     public static void main(String[] args) {
 
         interface Parameter1{

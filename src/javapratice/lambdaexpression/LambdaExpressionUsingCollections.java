@@ -1,9 +1,9 @@
-package javapratice.lamdaexpression;
+package javapratice.lambdaexpression;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class LamdaExpressionUsingCollections {
+public class LambdaExpressionUsingCollections {
     public static void main(String[] args) {
         ArrayList<Integer> num = new ArrayList<>();
         num.add(26);

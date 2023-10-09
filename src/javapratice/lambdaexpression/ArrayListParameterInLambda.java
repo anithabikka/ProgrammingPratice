@@ -1,8 +1,8 @@
-package javapratice.lamdaexpression;
+package javapratice.lambdaexpression;
 
 import java.util.ArrayList;
 
-public class ArrayListParameterInLamda {
+public class ArrayListParameterInLambda {
     public static void main(String[] args) {
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(34);

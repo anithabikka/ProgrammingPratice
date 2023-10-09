@@ -1,4 +1,4 @@
-package javapratice.lamdaexpression;
+package javapratice.lambdaexpression;
 
 import java.util.TreeSet;
 

@@ -3,8 +3,8 @@ package javapratice.exceptionhandling;
 public class MultipleCatchException {
     public static void main(String[] args) {
         try{
-            int a[]=new int[5];
-            a[5]=13;
+         //   int a[]=new int[5];
+           // a[5]=13;
             int i=50/0;
 
         }catch (ArithmeticException e){
